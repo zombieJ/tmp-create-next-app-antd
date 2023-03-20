@@ -28,6 +28,6 @@
     "typescript": "4.9.4"
   },
   "resolutions": {
-    "@rc-component": "1.5.4"
+    "@rc-component/trigger": "1.5.4"
   }
 }
